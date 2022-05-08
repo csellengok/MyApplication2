@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Nev</string>
+    <string name="password">Jelszo</string>
+    <string name="login">Bejelentkezes</string>
+    <string name="register">register</string>
+    <string name="regisztracio">Regisztracio</string>
+    <string name="username" />
+    <string name="felhasznalo">felhasznalo</string>
+    <string name="email">email</string>
+    <string name="jelszo">jelszo</string>
+    <string name="jelszoujra">Jelszo ujra</string>
+    <string name="cancel">Cancel</string>
+    <string name="kos_rba">Kosárba</string>
+    <string name="item_info_placeholder">item_info_placeholder</string>
+    <string name="item_placeholder">item_placeholder</string>
+    <string name="cim">Cim</string>
+    <string name="leiras">leiras</string>
+    <string name="r">Ár</string>
+    <string name="le_r_s">Leírás</string>
+    <string name="c_m">Cím</string>
+    <string name="lefoglalom">Lefoglalom</string>
+    <string name="be_ll_t_s">Beállítás</string>
+    <string name="kijelentkez_s">Kijelentkezés</string>
+    <string name="views">views</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="regisztr_ci">Regisztráció</string>
+
+
+    <string-array name="szallas_item_names">
+        <item>Táborfalva</item>
+        <item>Felcsút</item>
+        <item>Miskolc</item>
+        <item>Salgótarján</item>
+        <item>Berettyóújfalu</item>
+    </string-array>
+
+    <string-array name="szallas_item_desc">
+        <item>3 szoba, garázzsal, opcionális macskával</item>
+        <item>Másfél szoba a madárkuckóban, egy a házban</item>
+        <item>Kellemes üvegház, 40°C+</item>
+        <item>Kellemes környék, nudista szomszédság</item>
+        <item>Tetőterasszal, ágy nélkül</item>
+    </string-array>
+
+    <array name="szallas_item_images">
+        <item>@drawable/sims1</item>
+        <item>@drawable/sims2</item>
+        <item>@drawable/sims3</item>
+        <item>@drawable/sims4</item>
+        <item>@drawable/sims</item>
+    </array>
+
+    <array name="szallas_item_price">
+        <item>200 Simoleons/éj</item>
+        <item>650 Simoleons/éj</item>
+        <item>500 Simoleons/éj</item>
+        <item>400 Simoleons/éj</item>
+        <item>350 Simoleons/éj</item>
+    </array>
+
+</resources>
